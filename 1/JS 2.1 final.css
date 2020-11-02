@@ -1,0 +1,15 @@
+section {
+  padding: 1rem 2rem;
+}
+
+.complete {
+  background-color: #a39ce7;
+  font-size: 20px;
+}
+
+label,
+#a,
+#b,
+#result {
+  font-size: 20px;
+}
